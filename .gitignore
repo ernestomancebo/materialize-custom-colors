@@ -1,2 +1,10 @@
+.idea/
 .sass-cache/
 *.css.map
+fonts/
+css/
+js/
+sass/components/*
+!_color.scss
+!_variables.scss
+!_palette.scss
